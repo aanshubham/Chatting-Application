@@ -1,2 +1,3 @@
 # Chatting-Application
-#Java AWT Application
+# Java Application
+In this reprository AWT in java is used
